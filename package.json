@@ -1,17 +1,26 @@
 {
-  "name": "",
-  "version": "",
-  "description": "",
+  "name": "fec_devin-proxy",
+  "description": "> Project description",
   "author": "",
-  "license": "",
+  "license": "ISC",
   "engines": {
     "node": ">=6.13.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
+    "express": "^4.17.1"
   },
   "devDependencies": {
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
-  }
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git"
+  },
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amishon/Devin-Proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Amishon/Devin-Proxy/issues"
+  },
+  "homepage": "https://github.com/Amishon/Devin-Proxy#readme"
 }
