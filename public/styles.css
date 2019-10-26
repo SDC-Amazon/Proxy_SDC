@@ -1,0 +1,21 @@
+#mid-container {
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: space-between;
+  margin-left: 8px;
+  margin-right: 8px
+}
+
+#Carousel {
+  margin-left: 8px;
+  margin-right: 8px
+}
+
+#reviews {
+  margin-left: 8px;
+  margin-right: 8px
+}
+
+#jj-cart {
+  min-width: 242px
+}
